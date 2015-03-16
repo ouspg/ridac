@@ -1,0 +1,6 @@
+Some components are from GNU Radio
+ Eric Blossom <eb@comsec.com>
+The source codes in src/lib/ were mostly made for a graduation thesis by
+ Thomas Schaberreiter
+and some after that by
+ Pauli Rikula
